@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valebl&theme=nightowl&hide=makefile)
+<a href="https://github.com/emaballarin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valebl&langs_count=10&hide=makefile&theme=nightowl&layout=compact"/>
+</a></p>
 
 <!--
 **valebl/valebl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
